@@ -14,8 +14,37 @@ body {
     text-align: center;
     color: white;
 }
+.btn-primary-outline{
+    background-color: transparent;
+    border-color: #ccc;
+    color: white;
+}
 
 .container {
     justify-content: center;
     align-items: center;
+}
+
+.fa-facebook{
+    color:white;
+}
+
+.fa-linkedin{
+    color:white;
+}
+
+.fa-twitter{
+    color:white;
+}
+
+.fa-instagram{
+    color:white;
+}
+
+.fa-envelope-o{
+    color:white;
+}
+
+.fa-github{
+    color:white;
 }
